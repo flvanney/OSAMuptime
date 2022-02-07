@@ -14,7 +14,7 @@ sites:
   - name: Farmacias
     url: https://extranet.osam.org.ar/Consulta/farmacias
   - name: Delegaciones
-    uel: https://extranet.osam.org.ar/Consulta/
+    url: https://extranet.osam.org.ar/Consulta/
   - name: Google
     url: https://www.google.com
     
