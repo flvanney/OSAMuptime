@@ -5,38 +5,36 @@
     "icon": "https://favicons.githubusercontent.com/extranet.osam.org.ar",
     "slug": "extranet",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 930,
     "timeDay": 871,
     "timeWeek": 930,
     "timeMonth": 930,
     "timeYear": 930,
-    "dailyMinutesDown": {
-      "2022-02-08": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AOL",
     "url": "https://extranet.osam.org.ar/OSAM",
     "icon": "https://favicons.githubusercontent.com/extranet.osam.org.ar",
     "slug": "aol",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 874,
+    "status": "up",
+    "uptime": "98.82%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "98.82%",
+    "time": 844,
     "timeDay": 783,
-    "timeWeek": 874,
-    "timeMonth": 874,
-    "timeYear": 874,
+    "timeWeek": 844,
+    "timeMonth": 844,
+    "timeYear": 844,
     "dailyMinutesDown": {
-      "2022-02-08": 5
+      "2022-02-08": 20
     }
   },
   {
@@ -45,19 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/extranet.osam.org.ar",
     "slug": "asociados",
     "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.28%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 964,
     "timeDay": 1057,
     "timeWeek": 964,
     "timeMonth": 964,
     "timeYear": 964,
-    "dailyMinutesDown": {
-      "2022-02-08": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cartilla",
@@ -65,19 +61,17 @@
     "icon": "https://favicons.githubusercontent.com/extranet.osam.org.ar",
     "slug": "cartilla",
     "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 421,
     "timeDay": 412,
     "timeWeek": 421,
     "timeMonth": 421,
     "timeYear": 421,
-    "dailyMinutesDown": {
-      "2022-02-08": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Farmacias",
