@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "98.75%",
-    "uptimeYear": "98.79%",
+    "uptimeYear": "98.82%",
     "time": 1171,
-    "timeDay": 893,
-    "timeWeek": 979,
-    "timeMonth": 1024,
+    "timeDay": 1164,
+    "timeWeek": 1004,
+    "timeMonth": 1031,
     "timeYear": 1156,
     "dailyMinutesDown": {
       "2023-02-13": 16,
@@ -70,8 +70,7 @@
       "2022-02-28": 12,
       "2022-02-25": 23,
       "2022-02-23": 23,
-      "2022-02-21": 673,
-      "2022-02-20": 1440
+      "2022-02-21": 673
     }
   },
   {
@@ -80,15 +79,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "aol",
     "status": "up",
-    "uptime": "98.54%",
+    "uptime": "98.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.83%",
-    "uptimeYear": "98.58%",
+    "uptimeYear": "98.62%",
     "time": 1079,
-    "timeDay": 881,
-    "timeWeek": 1062,
-    "timeMonth": 1117,
+    "timeDay": 1419,
+    "timeWeek": 1100,
+    "timeMonth": 1128,
     "timeYear": 1091,
     "dailyMinutesDown": {
       "2023-02-09": 42,
@@ -133,8 +132,7 @@
       "2022-03-01": 37,
       "2022-02-28": 443,
       "2022-02-23": 21,
-      "2022-02-21": 673,
-      "2022-02-20": 1440
+      "2022-02-21": 673
     }
   },
   {
@@ -147,11 +145,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.83%",
-    "uptimeYear": "98.96%",
+    "uptimeYear": "99.00%",
     "time": 921,
-    "timeDay": 647,
-    "timeWeek": 697,
-    "timeMonth": 994,
+    "timeDay": 941,
+    "timeWeek": 716,
+    "timeMonth": 1001,
     "timeYear": 924,
     "dailyMinutesDown": {
       "2023-02-09": 42,
@@ -185,8 +183,7 @@
       "2022-03-01": 37,
       "2022-02-28": 12,
       "2022-02-23": 21,
-      "2022-02-21": 673,
-      "2022-02-20": 1440
+      "2022-02-21": 673
     }
   },
   {
@@ -195,16 +192,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "cartilla",
     "status": "up",
-    "uptime": "98.81%",
+    "uptime": "98.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "98.76%",
-    "uptimeYear": "98.78%",
-    "time": 815,
-    "timeDay": 406,
-    "timeWeek": 407,
-    "timeMonth": 446,
-    "timeYear": 767,
+    "uptimeYear": "98.82%",
+    "time": 814,
+    "timeDay": 542,
+    "timeWeek": 413,
+    "timeMonth": 448,
+    "timeYear": 766,
     "dailyMinutesDown": {
       "2023-02-13": 16,
       "2023-02-09": 41,
@@ -260,8 +257,7 @@
       "2022-03-02": 23,
       "2022-03-01": 37,
       "2022-02-28": 12,
-      "2022-02-21": 673,
-      "2022-02-20": 1440
+      "2022-02-21": 673
     }
   },
   {
@@ -274,11 +270,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "98.76%",
-    "uptimeYear": "98.83%",
+    "uptimeYear": "98.86%",
     "time": 358,
-    "timeDay": 222,
-    "timeWeek": 230,
-    "timeMonth": 251,
+    "timeDay": 282,
+    "timeWeek": 232,
+    "timeMonth": 253,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2023-02-13": 16,
@@ -329,8 +325,7 @@
       "2022-03-02": 22,
       "2022-03-01": 37,
       "2022-02-28": 12,
-      "2022-02-21": 673,
-      "2022-02-20": 1440
+      "2022-02-21": 673
     }
   },
   {
@@ -343,11 +338,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.80%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.90%",
     "time": 285,
-    "timeDay": 164,
-    "timeWeek": 177,
-    "timeMonth": 189,
+    "timeDay": 240,
+    "timeWeek": 181,
+    "timeMonth": 191,
     "timeYear": 289,
     "dailyMinutesDown": {
       "2023-02-09": 40,
@@ -392,8 +387,7 @@
       "2022-03-03": 16,
       "2022-03-01": 37,
       "2022-02-28": 12,
-      "2022-02-21": 673,
-      "2022-02-20": 1440
+      "2022-02-21": 673
     }
   },
   {
@@ -408,9 +402,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 55,
-    "timeWeek": 82,
-    "timeMonth": 110,
+    "timeDay": 75,
+    "timeWeek": 69,
+    "timeMonth": 109,
     "timeYear": 102,
     "dailyMinutesDown": {}
   }
