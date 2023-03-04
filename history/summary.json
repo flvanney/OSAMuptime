@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "extranet",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.23%",
     "time": 1167,
-    "timeDay": 991,
-    "timeWeek": 1037,
-    "timeMonth": 986,
-    "timeYear": 1159,
+    "timeDay": 890,
+    "timeWeek": 1014,
+    "timeMonth": 982,
+    "timeYear": 1160,
     "dailyMinutesDown": {
       "2023-02-13": 16,
       "2023-02-09": 43,
@@ -63,8 +63,7 @@
       "2022-04-23": 80,
       "2022-04-22": 25,
       "2022-04-12": 44,
-      "2022-03-31": 116,
-      "2022-03-04": 473
+      "2022-03-31": 116
     }
   },
   {
@@ -77,12 +76,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.12%",
     "time": 1080,
-    "timeDay": 1166,
-    "timeWeek": 1155,
-    "timeMonth": 1098,
-    "timeYear": 1086,
+    "timeDay": 1072,
+    "timeWeek": 1159,
+    "timeMonth": 1092,
+    "timeYear": 1090,
     "dailyMinutesDown": {
       "2023-02-09": 42,
       "2023-02-01": 451,
@@ -120,8 +119,7 @@
       "2022-05-02": 209,
       "2022-04-23": 87,
       "2022-04-12": 20,
-      "2022-03-31": 116,
-      "2022-03-04": 473
+      "2022-03-31": 116
     }
   },
   {
@@ -136,10 +134,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.40%",
     "time": 917,
-    "timeDay": 781,
-    "timeWeek": 803,
-    "timeMonth": 1003,
-    "timeYear": 925,
+    "timeDay": 653,
+    "timeWeek": 776,
+    "timeMonth": 995,
+    "timeYear": 926,
     "dailyMinutesDown": {
       "2023-02-09": 42,
       "2023-02-01": 450,
@@ -166,8 +164,7 @@
       "2022-05-02": 207,
       "2022-04-23": 79,
       "2022-04-12": 19,
-      "2022-03-31": 115,
-      "2022-03-04": 472
+      "2022-03-31": 115
     }
   },
   {
@@ -176,16 +173,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "cartilla",
     "status": "up",
-    "uptime": "98.84%",
+    "uptime": "98.85%",
     "uptimeDay": "97.41%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.21%",
-    "time": 806,
-    "timeDay": 508,
-    "timeWeek": 494,
-    "timeMonth": 446,
-    "timeYear": 733,
+    "time": 805,
+    "timeDay": 474,
+    "timeWeek": 479,
+    "timeMonth": 443,
+    "timeYear": 734,
     "dailyMinutesDown": {
       "2023-03-03": 37,
       "2023-02-13": 16,
@@ -236,8 +233,7 @@
       "2022-04-22": 25,
       "2022-04-15": 23,
       "2022-04-12": 24,
-      "2022-03-31": 123,
-      "2022-03-04": 472
+      "2022-03-31": 123
     }
   },
   {
@@ -250,11 +246,11 @@
     "uptimeDay": "97.52%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.26%",
     "time": 355,
-    "timeDay": 260,
-    "timeWeek": 264,
-    "timeMonth": 242,
+    "timeDay": 253,
+    "timeWeek": 258,
+    "timeMonth": 240,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2023-03-03": 36,
@@ -300,8 +296,7 @@
       "2022-04-22": 25,
       "2022-04-15": 23,
       "2022-04-12": 24,
-      "2022-03-31": 121,
-      "2022-03-04": 471
+      "2022-03-31": 121
     }
   },
   {
@@ -310,16 +305,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "delegaciones",
     "status": "up",
-    "uptime": "98.92%",
+    "uptime": "98.93%",
     "uptimeDay": "97.59%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.29%",
     "time": 283,
-    "timeDay": 217,
-    "timeWeek": 208,
-    "timeMonth": 190,
-    "timeYear": 290,
+    "timeDay": 201,
+    "timeWeek": 203,
+    "timeMonth": 188,
+    "timeYear": 291,
     "dailyMinutesDown": {
       "2023-03-03": 35,
       "2023-02-09": 40,
@@ -359,8 +354,7 @@
       "2022-04-23": 73,
       "2022-04-22": 25,
       "2022-04-15": 23,
-      "2022-03-31": 120,
-      "2022-03-04": 471
+      "2022-03-31": 120
     }
   },
   {
@@ -375,9 +369,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 162,
-    "timeWeek": 94,
-    "timeMonth": 109,
+    "timeDay": 67,
+    "timeWeek": 92,
+    "timeMonth": 108,
     "timeYear": 100,
     "dailyMinutesDown": {}
   }
