@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.23%",
     "uptimeYear": "98.86%",
-    "time": 1197,
-    "timeDay": 1254,
-    "timeWeek": 1246,
-    "timeMonth": 1380,
-    "timeYear": 1229,
+    "time": 1198,
+    "timeDay": 1346,
+    "timeWeek": 1245,
+    "timeMonth": 1386,
+    "timeYear": 1230,
     "dailyMinutesDown": {
       "2023-05-16": 21,
       "2023-05-12": 29,
@@ -65,8 +65,7 @@
       "2022-06-14": 17,
       "2022-06-07": 24,
       "2022-06-04": 23,
-      "2022-06-03": 30,
-      "2022-05-30": 332
+      "2022-06-03": 30
     }
   },
   {
@@ -80,11 +79,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.59%",
     "uptimeYear": "98.81%",
-    "time": 1157,
-    "timeDay": 1201,
-    "timeWeek": 1107,
-    "timeMonth": 1879,
-    "timeYear": 1221,
+    "time": 1158,
+    "timeDay": 1291,
+    "timeWeek": 1130,
+    "timeMonth": 1883,
+    "timeYear": 1222,
     "dailyMinutesDown": {
       "2023-05-18": 459,
       "2023-05-17": 424,
@@ -128,8 +127,7 @@
       "2022-06-29": 15,
       "2022-06-23": 423,
       "2022-06-14": 16,
-      "2022-06-04": 23,
-      "2022-05-30": 331
+      "2022-06-04": 23
     }
   },
   {
@@ -138,15 +136,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "asociados",
     "status": "up",
-    "uptime": "98.94%",
+    "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.64%",
     "uptimeYear": "99.30%",
     "time": 914,
-    "timeDay": 832,
-    "timeWeek": 771,
-    "timeMonth": 878,
+    "timeDay": 890,
+    "timeWeek": 784,
+    "timeMonth": 879,
     "timeYear": 911,
     "dailyMinutesDown": {
       "2023-05-12": 29,
@@ -176,8 +174,7 @@
       "2022-07-13": 23,
       "2022-07-01": 26,
       "2022-06-14": 16,
-      "2022-06-02": 22,
-      "2022-05-30": 331
+      "2022-06-02": 22
     }
   },
   {
@@ -191,11 +188,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "98.52%",
     "uptimeYear": "99.12%",
-    "time": 824,
-    "timeDay": 494,
-    "timeWeek": 595,
+    "time": 823,
+    "timeDay": 579,
+    "timeWeek": 624,
     "timeMonth": 1444,
-    "timeYear": 768,
+    "timeYear": 769,
     "dailyMinutesDown": {
       "2023-05-27": 16,
       "2023-05-16": 21,
@@ -245,8 +242,7 @@
       "2022-06-14": 15,
       "2022-06-07": 24,
       "2022-06-04": 21,
-      "2022-06-01": 22,
-      "2022-05-30": 330
+      "2022-06-01": 22
     }
   },
   {
@@ -261,9 +257,9 @@
     "uptimeMonth": "98.55%",
     "uptimeYear": "99.17%",
     "time": 307,
-    "timeDay": 261,
-    "timeWeek": 258,
-    "timeMonth": 311,
+    "timeDay": 313,
+    "timeWeek": 262,
+    "timeMonth": 312,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2023-05-16": 21,
@@ -307,8 +303,7 @@
       "2022-07-01": 25,
       "2022-06-15": 25,
       "2022-06-07": 24,
-      "2022-06-01": 22,
-      "2022-05-30": 325
+      "2022-06-01": 22
     }
   },
   {
@@ -317,14 +312,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "delegaciones",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.56%",
     "uptimeYear": "99.20%",
     "time": 272,
-    "timeDay": 211,
-    "timeWeek": 197,
+    "timeDay": 229,
+    "timeWeek": 200,
     "timeMonth": 190,
     "timeYear": 257,
     "dailyMinutesDown": {
@@ -364,8 +359,7 @@
       "2022-07-01": 23,
       "2022-06-15": 24,
       "2022-06-07": 24,
-      "2022-06-01": 22,
-      "2022-05-30": 324
+      "2022-06-01": 22
     }
   },
   {
@@ -380,8 +374,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 82,
-    "timeWeek": 80,
+    "timeDay": 81,
+    "timeWeek": 79,
     "timeMonth": 103,
     "timeYear": 106,
     "dailyMinutesDown": {}
