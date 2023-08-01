@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "98.68%",
-    "time": 1338,
-    "timeDay": 1021,
-    "timeWeek": 1274,
+    "time": 1339,
+    "timeDay": 1450,
+    "timeWeek": 1276,
     "timeMonth": 1346,
-    "timeYear": 1395,
+    "timeYear": 1396,
     "dailyMinutesDown": {
       "2023-07-05": 17,
       "2023-07-02": 18,
@@ -65,8 +65,7 @@
       "2022-08-19": 16,
       "2022-08-16": 19,
       "2022-08-12": 30,
-      "2022-08-05": 47,
-      "2022-08-01": 19
+      "2022-08-05": 47
     }
   },
   {
@@ -81,8 +80,8 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "98.57%",
     "time": 1299,
-    "timeDay": 895,
-    "timeWeek": 1088,
+    "timeDay": 1292,
+    "timeWeek": 1101,
     "timeMonth": 1067,
     "timeYear": 1382,
     "dailyMinutesDown": {
@@ -148,9 +147,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.12%",
     "time": 1006,
-    "timeDay": 634,
-    "timeWeek": 794,
-    "timeMonth": 754,
+    "timeDay": 895,
+    "timeWeek": 802,
+    "timeMonth": 753,
     "timeYear": 1008,
     "dailyMinutesDown": {
       "2023-07-01": 106,
@@ -199,9 +198,9 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "98.96%",
     "time": 800,
-    "timeDay": 412,
-    "timeWeek": 499,
-    "timeMonth": 593,
+    "timeDay": 556,
+    "timeWeek": 509,
+    "timeMonth": 594,
     "timeYear": 854,
     "dailyMinutesDown": {
       "2023-07-13": 16,
@@ -255,8 +254,7 @@
       "2022-09-14": 210,
       "2022-09-11": 278,
       "2022-08-16": 19,
-      "2022-08-05": 44,
-      "2022-08-01": 19
+      "2022-08-05": 44
     }
   },
   {
@@ -265,14 +263,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "farmacias",
     "status": "up",
-    "uptime": "99.06%",
+    "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "98.99%",
     "time": 397,
-    "timeDay": 256,
-    "timeWeek": 270,
+    "timeDay": 278,
+    "timeWeek": 266,
     "timeMonth": 262,
     "timeYear": 396,
     "dailyMinutesDown": {
@@ -324,8 +322,7 @@
       "2022-10-01": 157,
       "2022-09-14": 209,
       "2022-09-11": 278,
-      "2022-08-16": 19,
-      "2022-08-01": 19
+      "2022-08-16": 19
     }
   },
   {
@@ -340,8 +337,8 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.03%",
     "time": 297,
-    "timeDay": 162,
-    "timeWeek": 190,
+    "timeDay": 227,
+    "timeWeek": 193,
     "timeMonth": 190,
     "timeYear": 291,
     "dailyMinutesDown": {
@@ -385,8 +382,7 @@
       "2022-10-01": 155,
       "2022-09-14": 208,
       "2022-09-11": 276,
-      "2022-08-16": 19,
-      "2022-08-01": 19
+      "2022-08-16": 19
     }
   },
   {
@@ -396,17 +392,15 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 326,
+    "timeDay": 333,
     "timeWeek": 166,
     "timeMonth": 122,
     "timeYear": 109,
-    "dailyMinutesDown": {
-      "2023-07-31": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
