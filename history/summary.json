@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "extranet",
     "status": "up",
-    "uptime": "98.95%",
+    "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.70%",
     "time": 1347,
-    "timeDay": 1451,
-    "timeWeek": 1282,
-    "timeMonth": 1247,
+    "timeDay": 1344,
+    "timeWeek": 1293,
+    "timeMonth": 1242,
     "timeYear": 1395,
     "dailyMinutesDown": {
       "2023-07-05": 17,
@@ -62,8 +62,7 @@
       "2022-09-14": 214,
       "2022-09-11": 275,
       "2022-08-20": 36,
-      "2022-08-19": 16,
-      "2022-08-16": 19
+      "2022-08-19": 16
     }
   },
   {
@@ -72,15 +71,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "aol",
     "status": "up",
-    "uptime": "98.33%",
+    "uptime": "98.34%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "98.57%",
     "time": 1308,
-    "timeDay": 1247,
-    "timeWeek": 1085,
-    "timeMonth": 1084,
+    "timeDay": 1114,
+    "timeWeek": 1098,
+    "timeMonth": 1079,
     "timeYear": 1389,
     "dailyMinutesDown": {
       "2023-08-08": 20,
@@ -140,15 +139,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "asociados",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.13%",
     "time": 988,
-    "timeDay": 910,
-    "timeWeek": 754,
-    "timeMonth": 752,
+    "timeDay": 812,
+    "timeWeek": 772,
+    "timeMonth": 750,
     "timeYear": 1009,
     "dailyMinutesDown": {
       "2023-08-08": 18,
@@ -193,13 +192,13 @@
     "status": "up",
     "uptime": "99.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.97%",
-    "time": 801,
-    "timeDay": 462,
-    "timeWeek": 448,
-    "timeMonth": 460,
+    "time": 802,
+    "timeDay": 436,
+    "timeWeek": 447,
+    "timeMonth": 457,
     "timeYear": 857,
     "dailyMinutesDown": {
       "2023-08-08": 17,
@@ -252,8 +251,7 @@
       "2022-10-23": 23,
       "2022-10-01": 158,
       "2022-09-14": 210,
-      "2022-09-11": 278,
-      "2022-08-16": 19
+      "2022-09-11": 278
     }
   },
   {
@@ -268,9 +266,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.99%",
     "time": 422,
-    "timeDay": 251,
-    "timeWeek": 2123,
-    "timeMonth": 722,
+    "timeDay": 264,
+    "timeWeek": 251,
+    "timeMonth": 721,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2023-07-13": 16,
@@ -320,8 +318,7 @@
       "2022-10-23": 23,
       "2022-10-01": 157,
       "2022-09-14": 209,
-      "2022-09-11": 278,
-      "2022-08-16": 19
+      "2022-09-11": 278
     }
   },
   {
@@ -336,9 +333,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.03%",
     "time": 292,
-    "timeDay": 194,
-    "timeWeek": 184,
-    "timeMonth": 187,
+    "timeDay": 190,
+    "timeWeek": 189,
+    "timeMonth": 186,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2023-07-13": 16,
@@ -380,8 +377,7 @@
       "2022-10-25": 38,
       "2022-10-01": 155,
       "2022-09-14": 208,
-      "2022-09-11": 276,
-      "2022-08-16": 19
+      "2022-09-11": 276
     }
   },
   {
@@ -390,18 +386,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.33%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.63%",
-    "uptimeMonth": "78.98%",
-    "uptimeYear": "98.25%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "75.69%",
+    "uptimeYear": "97.97%",
     "time": 108,
-    "timeDay": 252,
-    "timeWeek": 127,
+    "timeDay": 85,
+    "timeWeek": 128,
     "timeMonth": 156,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-08-15": 70,
+      "2023-08-16": 69,
+      "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
       "2023-08-12": 1440,
