@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "extranet",
     "status": "up",
-    "uptime": "99.02%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.00%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "98.72%",
     "time": 1374,
-    "timeDay": 3448,
-    "timeWeek": 1761,
-    "timeMonth": 1370,
-    "timeYear": 1421,
+    "timeDay": 1479,
+    "timeWeek": 1796,
+    "timeMonth": 1374,
+    "timeYear": 1422,
     "dailyMinutesDown": {
       "2023-09-21": 122,
       "2023-09-20": 17,
@@ -62,8 +62,7 @@
       "2022-11-16": 36,
       "2022-11-10": 329,
       "2022-10-25": 41,
-      "2022-10-23": 23,
-      "2022-10-01": 140
+      "2022-10-23": 23
     }
   },
   {
@@ -75,12 +74,12 @@
     "uptime": "98.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.06%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "98.59%",
-    "time": 1323,
-    "timeDay": 1266,
-    "timeWeek": 1136,
-    "timeMonth": 1062,
+    "time": 1324,
+    "timeDay": 1362,
+    "timeWeek": 1168,
+    "timeMonth": 1060,
     "timeYear": 1377,
     "dailyMinutesDown": {
       "2023-09-21": 130,
@@ -129,8 +128,7 @@
       "2022-11-17": 21,
       "2022-11-16": 35,
       "2022-11-03": 45,
-      "2022-10-25": 40,
-      "2022-10-01": 139
+      "2022-10-25": 40
     }
   },
   {
@@ -142,12 +140,12 @@
     "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.10%",
+    "uptimeMonth": "99.39%",
     "uptimeYear": "99.14%",
-    "time": 971,
-    "timeDay": 901,
-    "timeWeek": 786,
-    "timeMonth": 772,
+    "time": 972,
+    "timeDay": 894,
+    "timeWeek": 803,
+    "timeMonth": 760,
     "timeYear": 962,
     "dailyMinutesDown": {
       "2023-09-21": 121,
@@ -181,8 +179,7 @@
       "2022-11-24": 56,
       "2022-11-17": 20,
       "2022-11-16": 34,
-      "2022-10-25": 40,
-      "2022-10-01": 160
+      "2022-10-25": 40
     }
   },
   {
@@ -191,15 +188,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "cartilla",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.06%",
+    "uptimeMonth": "99.39%",
     "uptimeYear": "98.99%",
     "time": 771,
-    "timeDay": 502,
-    "timeWeek": 467,
-    "timeMonth": 502,
+    "timeDay": 519,
+    "timeWeek": 474,
+    "timeMonth": 500,
     "timeYear": 841,
     "dailyMinutesDown": {
       "2023-09-21": 121,
@@ -254,8 +251,7 @@
       "2022-11-15": 31,
       "2022-11-10": 329,
       "2022-10-25": 39,
-      "2022-10-23": 23,
-      "2022-10-01": 158
+      "2022-10-23": 23
     }
   },
   {
@@ -267,12 +263,12 @@
     "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.08%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "99.01%",
     "time": 398,
-    "timeDay": 278,
-    "timeWeek": 270,
-    "timeMonth": 269,
+    "timeDay": 281,
+    "timeWeek": 271,
+    "timeMonth": 273,
     "timeYear": 413,
     "dailyMinutesDown": {
       "2023-09-21": 120,
@@ -324,8 +320,7 @@
       "2022-11-15": 31,
       "2022-11-10": 329,
       "2022-10-25": 39,
-      "2022-10-23": 23,
-      "2022-10-01": 157
+      "2022-10-23": 23
     }
   },
   {
@@ -334,15 +329,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "delegaciones",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.15%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "99.05%",
     "time": 293,
-    "timeDay": 220,
-    "timeWeek": 201,
-    "timeMonth": 538,
+    "timeDay": 225,
+    "timeWeek": 205,
+    "timeMonth": 471,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2023-09-21": 118,
@@ -386,8 +381,7 @@
       "2022-11-16": 31,
       "2022-11-15": 31,
       "2022-11-10": 329,
-      "2022-10-25": 38,
-      "2022-10-01": 155
+      "2022-10-25": 38
     }
   },
   {
@@ -402,9 +396,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.78%",
     "time": 114,
-    "timeDay": 98,
+    "timeDay": 93,
     "timeWeek": 103,
-    "timeMonth": 133,
+    "timeMonth": 134,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2023-08-16": 1104,
