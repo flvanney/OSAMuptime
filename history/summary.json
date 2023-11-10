@@ -11,10 +11,10 @@
     "uptimeMonth": "97.50%",
     "uptimeYear": "98.55%",
     "time": 1374,
-    "timeDay": 1861,
-    "timeWeek": 1501,
-    "timeMonth": 1621,
-    "timeYear": 1455,
+    "timeDay": 1356,
+    "timeWeek": 1497,
+    "timeMonth": 1624,
+    "timeYear": 1456,
     "dailyMinutesDown": {
       "2023-11-07": 44,
       "2023-10-29": 950,
@@ -63,8 +63,7 @@
       "2022-11-26": 26,
       "2022-11-24": 57,
       "2022-11-17": 23,
-      "2022-11-16": 36,
-      "2022-11-10": 329
+      "2022-11-16": 36
     }
   },
   {
@@ -79,10 +78,10 @@
     "uptimeMonth": "88.93%",
     "uptimeYear": "97.70%",
     "time": 1281,
-    "timeDay": 1108,
-    "timeWeek": 805,
-    "timeMonth": 1038,
-    "timeYear": 1364,
+    "timeDay": 911,
+    "timeWeek": 804,
+    "timeMonth": 1037,
+    "timeYear": 1367,
     "dailyMinutesDown": {
       "2023-11-07": 44,
       "2023-11-06": 689,
@@ -151,8 +150,8 @@
     "uptimeMonth": "97.51%",
     "uptimeYear": "98.96%",
     "time": 949,
-    "timeDay": 748,
-    "timeWeek": 766,
+    "timeDay": 647,
+    "timeWeek": 767,
     "timeMonth": 778,
     "timeYear": 961,
     "dailyMinutesDown": {
@@ -204,9 +203,9 @@
     "uptimeWeek": "99.57%",
     "uptimeMonth": "97.47%",
     "uptimeYear": "98.81%",
-    "time": 801,
-    "timeDay": 512,
-    "timeWeek": 2167,
+    "time": 800,
+    "timeDay": 392,
+    "timeWeek": 2164,
     "timeMonth": 931,
     "timeYear": 881,
     "dailyMinutesDown": {
@@ -264,8 +263,7 @@
       "2022-11-24": 56,
       "2022-11-17": 19,
       "2022-11-16": 33,
-      "2022-11-15": 31,
-      "2022-11-10": 329
+      "2022-11-15": 31
     }
   },
   {
@@ -274,14 +272,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "farmacias",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "97.44%",
     "uptimeYear": "98.83%",
     "time": 399,
-    "timeDay": 275,
-    "timeWeek": 397,
+    "timeDay": 224,
+    "timeWeek": 398,
     "timeMonth": 483,
     "timeYear": 431,
     "dailyMinutesDown": {
@@ -335,8 +333,7 @@
       "2022-11-24": 55,
       "2022-11-17": 18,
       "2022-11-16": 32,
-      "2022-11-15": 31,
-      "2022-11-10": 329
+      "2022-11-15": 31
     }
   },
   {
@@ -351,7 +348,7 @@
     "uptimeMonth": "97.44%",
     "uptimeYear": "98.87%",
     "time": 294,
-    "timeDay": 191,
+    "timeDay": 162,
     "timeWeek": 179,
     "timeMonth": 193,
     "timeYear": 315,
@@ -399,8 +396,7 @@
       "2022-11-24": 55,
       "2022-11-17": 18,
       "2022-11-16": 31,
-      "2022-11-15": 31,
-      "2022-11-10": 329
+      "2022-11-15": 31
     }
   },
   {
@@ -415,9 +411,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.78%",
     "time": 118,
-    "timeDay": 204,
-    "timeWeek": 120,
-    "timeMonth": 155,
+    "timeDay": 69,
+    "timeWeek": 114,
+    "timeMonth": 154,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2023-08-16": 1104,
