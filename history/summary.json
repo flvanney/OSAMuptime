@@ -11,10 +11,10 @@
     "uptimeMonth": "98.34%",
     "uptimeYear": "98.52%",
     "time": 1454,
-    "timeDay": 2072,
-    "timeWeek": 1530,
-    "timeMonth": 1766,
-    "timeYear": 1513,
+    "timeDay": 1259,
+    "timeWeek": 1406,
+    "timeMonth": 1759,
+    "timeYear": 1514,
     "dailyMinutesDown": {
       "2024-01-31": 19,
       "2024-01-25": 16,
@@ -58,8 +58,7 @@
       "2023-03-14": 647,
       "2023-03-13": 331,
       "2023-03-10": 22,
-      "2023-02-13": 16,
-      "2023-02-09": 43
+      "2023-02-13": 16
     }
   },
   {
@@ -68,18 +67,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "aol",
     "status": "up",
-    "uptime": "98.60%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "98.35%",
+    "uptime": "98.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.37%",
     "uptimeYear": "97.60%",
     "time": 1311,
-    "timeDay": 1110,
-    "timeWeek": 1031,
-    "timeMonth": 1038,
+    "timeDay": 967,
+    "timeWeek": 989,
+    "timeMonth": 1029,
     "timeYear": 1325,
     "dailyMinutesDown": {
-      "2024-02-08": 12,
       "2024-01-25": 16,
       "2024-01-16": 50,
       "2024-01-15": 50,
@@ -129,8 +127,7 @@
       "2023-03-14": 647,
       "2023-03-13": 331,
       "2023-03-10": 21,
-      "2023-03-07": 446,
-      "2023-02-09": 42
+      "2023-03-07": 446
     }
   },
   {
@@ -145,9 +142,9 @@
     "uptimeMonth": "98.38%",
     "uptimeYear": "98.87%",
     "time": 934,
-    "timeDay": 931,
-    "timeWeek": 733,
-    "timeMonth": 748,
+    "timeDay": 644,
+    "timeWeek": 694,
+    "timeMonth": 742,
     "timeYear": 963,
     "dailyMinutesDown": {
       "2024-01-25": 15,
@@ -182,8 +179,7 @@
       "2023-03-16": 24,
       "2023-03-14": 647,
       "2023-03-13": 330,
-      "2023-03-10": 19,
-      "2023-02-09": 42
+      "2023-03-10": 19
     }
   },
   {
@@ -198,9 +194,9 @@
     "uptimeMonth": "98.35%",
     "uptimeYear": "98.80%",
     "time": 850,
-    "timeDay": 536,
-    "timeWeek": 794,
-    "timeMonth": 629,
+    "timeDay": 402,
+    "timeWeek": 780,
+    "timeMonth": 627,
     "timeYear": 823,
     "dailyMinutesDown": {
       "2024-02-06": 17,
@@ -250,8 +246,7 @@
       "2023-03-14": 647,
       "2023-03-13": 330,
       "2023-03-03": 37,
-      "2023-02-13": 16,
-      "2023-02-09": 41
+      "2023-02-13": 16
     }
   },
   {
@@ -260,15 +255,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "farmacias",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "98.35%",
     "uptimeYear": "98.81%",
     "time": 409,
-    "timeDay": 295,
-    "timeWeek": 234,
-    "timeMonth": 299,
+    "timeDay": 219,
+    "timeWeek": 227,
+    "timeMonth": 297,
     "timeYear": 432,
     "dailyMinutesDown": {
       "2024-02-06": 17,
@@ -314,8 +309,7 @@
       "2023-03-14": 647,
       "2023-03-13": 329,
       "2023-03-03": 36,
-      "2023-02-13": 16,
-      "2023-02-09": 41
+      "2023-02-13": 16
     }
   },
   {
@@ -330,9 +324,9 @@
     "uptimeMonth": "98.39%",
     "uptimeYear": "98.85%",
     "time": 294,
-    "timeDay": 231,
-    "timeWeek": 182,
-    "timeMonth": 209,
+    "timeDay": 161,
+    "timeWeek": 174,
+    "timeMonth": 207,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2024-02-06": 17,
@@ -372,8 +366,7 @@
       "2023-03-16": 22,
       "2023-03-14": 647,
       "2023-03-13": 329,
-      "2023-03-03": 35,
-      "2023-02-09": 40
+      "2023-03-03": 35
     }
   },
   {
@@ -388,7 +381,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.78%",
     "time": 112,
-    "timeDay": 75,
+    "timeDay": 71,
     "timeWeek": 69,
     "timeMonth": 83,
     "timeYear": 113,
