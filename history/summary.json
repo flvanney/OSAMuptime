@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "extranet",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "91.53%",
     "uptimeWeek": "98.79%",
-    "uptimeMonth": "97.15%",
+    "uptimeMonth": "97.25%",
     "uptimeYear": "98.45%",
-    "time": 1522,
-    "timeDay": 1450,
-    "timeWeek": 1528,
-    "timeMonth": 1892,
-    "timeYear": 1606,
+    "time": 1516,
+    "timeDay": 1519,
+    "timeWeek": 1544,
+    "timeMonth": 1895,
+    "timeYear": 1607,
     "dailyMinutesDown": {
       "2024-04-06": 122,
       "2024-03-19": 67,
@@ -62,8 +62,7 @@
       "2023-05-12": 29,
       "2023-05-06": 123,
       "2023-05-05": 1440,
-      "2023-05-04": 476,
-      "2023-04-08": 130
+      "2023-05-04": 476
     }
   },
   {
@@ -75,12 +74,12 @@
     "uptime": "98.63%",
     "uptimeDay": "91.56%",
     "uptimeWeek": "98.79%",
-    "uptimeMonth": "97.16%",
+    "uptimeMonth": "97.26%",
     "uptimeYear": "97.62%",
     "time": 1366,
-    "timeDay": 1506,
-    "timeWeek": 1171,
-    "timeMonth": 1173,
+    "timeDay": 1534,
+    "timeWeek": 1186,
+    "timeMonth": 1174,
     "timeYear": 1386,
     "dailyMinutesDown": {
       "2024-04-06": 122,
@@ -135,8 +134,7 @@
       "2023-05-06": 106,
       "2023-05-05": 461,
       "2023-05-03": 15,
-      "2023-04-13": 18,
-      "2023-04-08": 346
+      "2023-04-13": 18
     }
   },
   {
@@ -148,12 +146,12 @@
     "uptime": "98.87%",
     "uptimeDay": "91.63%",
     "uptimeWeek": "98.80%",
-    "uptimeMonth": "97.17%",
+    "uptimeMonth": "97.27%",
     "uptimeYear": "98.80%",
     "time": 942,
-    "timeDay": 1090,
-    "timeWeek": 823,
-    "timeMonth": 971,
+    "timeDay": 1130,
+    "timeWeek": 833,
+    "timeMonth": 974,
     "timeYear": 942,
     "dailyMinutesDown": {
       "2024-04-06": 121,
@@ -193,8 +191,7 @@
       "2023-06-07": 54,
       "2023-05-12": 29,
       "2023-05-06": 106,
-      "2023-05-05": 461,
-      "2023-04-08": 129
+      "2023-05-05": 461
     }
   },
   {
@@ -206,12 +203,12 @@
     "uptime": "99.25%",
     "uptimeDay": "91.67%",
     "uptimeWeek": "98.81%",
-    "uptimeMonth": "97.17%",
+    "uptimeMonth": "97.27%",
     "uptimeYear": "98.74%",
     "time": 851,
-    "timeDay": 5829,
-    "timeWeek": 1788,
-    "timeMonth": 930,
+    "timeDay": 5846,
+    "timeWeek": 1793,
+    "timeMonth": 941,
     "timeYear": 862,
     "dailyMinutesDown": {
       "2024-04-06": 120,
@@ -265,8 +262,7 @@
       "2023-05-16": 21,
       "2023-05-12": 28,
       "2023-05-06": 123,
-      "2023-05-05": 461,
-      "2023-04-08": 150
+      "2023-05-05": 461
     }
   },
   {
@@ -278,12 +274,12 @@
     "uptime": "99.22%",
     "uptimeDay": "91.71%",
     "uptimeWeek": "98.82%",
-    "uptimeMonth": "97.19%",
+    "uptimeMonth": "97.29%",
     "uptimeYear": "98.75%",
     "time": 410,
-    "timeDay": 340,
-    "timeWeek": 271,
-    "timeMonth": 307,
+    "timeDay": 350,
+    "timeWeek": 274,
+    "timeMonth": 297,
     "timeYear": 437,
     "dailyMinutesDown": {
       "2024-04-06": 119,
@@ -333,8 +329,7 @@
       "2023-05-16": 21,
       "2023-05-12": 28,
       "2023-05-06": 123,
-      "2023-05-05": 461,
-      "2023-04-08": 149
+      "2023-05-05": 461
     }
   },
   {
@@ -346,12 +341,12 @@
     "uptime": "99.18%",
     "uptimeDay": "91.74%",
     "uptimeWeek": "98.82%",
-    "uptimeMonth": "97.20%",
+    "uptimeMonth": "97.30%",
     "uptimeYear": "98.78%",
     "time": 293,
-    "timeDay": 163,
-    "timeWeek": 181,
-    "timeMonth": 190,
+    "timeDay": 173,
+    "timeWeek": 183,
+    "timeMonth": 189,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2024-04-06": 119,
@@ -397,8 +392,7 @@
       "2023-05-16": 21,
       "2023-05-12": 27,
       "2023-05-06": 123,
-      "2023-05-05": 461,
-      "2023-04-08": 130
+      "2023-05-05": 461
     }
   },
   {
@@ -414,8 +408,8 @@
     "uptimeYear": "97.78%",
     "time": 109,
     "timeDay": 78,
-    "timeWeek": 86,
-    "timeMonth": 95,
+    "timeWeek": 82,
+    "timeMonth": 96,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2023-08-16": 1104,
