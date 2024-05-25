@@ -1,7 +1,7 @@
 url: https://extranet.osam.org.ar/Consulta/cartilla
-status: down
-code: 502
-responseTime: 7008
-lastUpdated: 2024-05-25T10:00:11.792Z
+status: up
+code: 200
+responseTime: 476
+lastUpdated: 2024-05-25T10:18:30.927Z
 startTime: 2022-02-07T14:24:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
