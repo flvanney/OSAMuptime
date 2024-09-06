@@ -1,7 +1,7 @@
 url: https://extranet.osam.org.ar/Asociados
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-06T06:39:20.502Z
+status: up
+code: 200
+responseTime: 731
+lastUpdated: 2024-09-06T09:32:15.611Z
 startTime: 2022-02-07T14:24:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
