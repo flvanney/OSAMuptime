@@ -1,7 +1,7 @@
 url: https://extranet.osam.org.ar/Consulta/farmacias
-status: down
-code: 502
-responseTime: 150
-lastUpdated: 2024-10-11T16:00:08.411Z
+status: up
+code: 200
+responseTime: 275
+lastUpdated: 2024-10-11T16:25:45.536Z
 startTime: 2022-02-07T14:24:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
