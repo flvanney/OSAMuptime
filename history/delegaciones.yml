@@ -1,7 +1,7 @@
 url: https://extranet.osam.org.ar/Consulta/
-status: down
-code: 502
-responseTime: 177
-lastUpdated: 2025-03-19T11:36:00.669Z
+status: up
+code: 200
+responseTime: 212
+lastUpdated: 2025-03-19T11:43:13.704Z
 startTime: 2022-02-07T14:24:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
