@@ -10,11 +10,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "96.08%",
     "uptimeYear": "98.12%",
-    "time": 1693,
-    "timeDay": 1702,
-    "timeWeek": 1621,
-    "timeMonth": 1552,
-    "timeYear": 1678,
+    "time": 1694,
+    "timeDay": 1633,
+    "timeWeek": 1634,
+    "timeMonth": 1561,
+    "timeYear": 1679,
     "dailyMinutesDown": {
       "2025-04-23": 17,
       "2025-04-14": 744,
@@ -72,10 +72,10 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "96.00%",
     "uptimeYear": "97.78%",
-    "time": 1120,
-    "timeDay": 1287,
-    "timeWeek": 1058,
-    "timeMonth": 1050,
+    "time": 1121,
+    "timeDay": 1054,
+    "timeWeek": 1056,
+    "timeMonth": 1055,
     "timeYear": 1058,
     "dailyMinutesDown": {
       "2025-04-23": 17,
@@ -116,8 +116,7 @@
       "2024-05-31": 445,
       "2024-05-27": 68,
       "2024-05-26": 0,
-      "2024-04-30": 44,
-      "2024-04-29": 26
+      "2024-04-30": 44
     }
   },
   {
@@ -132,9 +131,9 @@
     "uptimeMonth": "96.14%",
     "uptimeYear": "98.19%",
     "time": 768,
-    "timeDay": 798,
-    "timeWeek": 715,
-    "timeMonth": 715,
+    "timeDay": 685,
+    "timeWeek": 718,
+    "timeMonth": 717,
     "timeYear": 752,
     "dailyMinutesDown": {
       "2025-04-23": 16,
@@ -164,8 +163,7 @@
       "2024-08-03": 154,
       "2024-07-02": 162,
       "2024-06-05": 20,
-      "2024-04-30": 43,
-      "2024-04-29": 25
+      "2024-04-30": 43
     }
   },
   {
@@ -179,10 +177,10 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "96.02%",
     "uptimeYear": "98.12%",
-    "time": 633,
-    "timeDay": 548,
-    "timeWeek": 522,
-    "timeMonth": 460,
+    "time": 632,
+    "timeDay": 427,
+    "timeWeek": 525,
+    "timeMonth": 462,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2025-04-23": 36,
@@ -245,9 +243,9 @@
     "uptimeMonth": "96.10%",
     "uptimeYear": "98.14%",
     "time": 289,
-    "timeDay": 300,
-    "timeWeek": 246,
-    "timeMonth": 250,
+    "timeDay": 240,
+    "timeWeek": 247,
+    "timeMonth": 249,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2025-04-14": 744,
@@ -302,14 +300,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "delegaciones",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.16%",
     "uptimeYear": "98.17%",
     "time": 256,
-    "timeDay": 199,
-    "timeWeek": 177,
+    "timeDay": 173,
+    "timeWeek": 178,
     "timeMonth": 876,
     "timeYear": 273,
     "dailyMinutesDown": {
@@ -366,9 +364,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 93,
-    "timeWeek": 92,
-    "timeMonth": 109,
+    "timeDay": 160,
+    "timeWeek": 102,
+    "timeMonth": 106,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2025-01-29": 28,
