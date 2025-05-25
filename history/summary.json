@@ -6,15 +6,15 @@
     "slug": "extranet",
     "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "82.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.07%",
     "uptimeMonth": "98.48%",
     "uptimeYear": "98.01%",
-    "time": 1734,
-    "timeDay": 2362,
-    "timeWeek": 2594,
-    "timeMonth": 2026,
-    "timeYear": 1730,
+    "time": 1736,
+    "timeDay": 1954,
+    "timeWeek": 2610,
+    "timeMonth": 2037,
+    "timeYear": 1731,
     "dailyMinutesDown": {
       "2025-05-23": 320,
       "2025-05-22": 257,
@@ -71,14 +71,14 @@
     "slug": "aol",
     "status": "up",
     "uptime": "98.67%",
-    "uptimeDay": "71.38%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "91.68%",
     "uptimeMonth": "96.92%",
     "uptimeYear": "97.53%",
     "time": 1092,
-    "timeDay": 2152,
-    "timeWeek": 2022,
-    "timeMonth": 1454,
+    "timeDay": 1169,
+    "timeWeek": 2024,
+    "timeMonth": 1461,
     "timeYear": 1096,
     "dailyMinutesDown": {
       "2025-05-23": 525,
@@ -131,14 +131,14 @@
     "slug": "asociados",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "85.19%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.33%",
     "uptimeMonth": "98.54%",
     "uptimeYear": "98.08%",
     "time": 805,
-    "timeDay": 1329,
-    "timeWeek": 1893,
-    "timeMonth": 1192,
+    "timeDay": 706,
+    "timeWeek": 1892,
+    "timeMonth": 1193,
     "timeYear": 800,
     "dailyMinutesDown": {
       "2025-05-23": 286,
@@ -180,13 +180,13 @@
     "slug": "cartilla",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "98.55%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "98.10%",
     "time": 613,
-    "timeDay": 464,
-    "timeWeek": 433,
+    "timeDay": 422,
+    "timeWeek": 432,
     "timeMonth": 461,
     "timeYear": 602,
     "dailyMinutesDown": {
@@ -235,8 +235,7 @@
       "2024-06-12": 23,
       "2024-06-05": 20,
       "2024-06-04": 16,
-      "2024-06-02": 34,
-      "2024-05-25": 18
+      "2024-06-02": 34
     }
   },
   {
@@ -246,13 +245,13 @@
     "slug": "farmacias",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "98.60%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "98.13%",
     "time": 316,
-    "timeDay": 272,
-    "timeWeek": 1422,
+    "timeDay": 248,
+    "timeWeek": 1421,
     "timeMonth": 688,
     "timeYear": 328,
     "dailyMinutesDown": {
@@ -299,8 +298,7 @@
       "2024-06-12": 23,
       "2024-06-05": 19,
       "2024-06-04": 16,
-      "2024-06-02": 34,
-      "2024-05-25": 18
+      "2024-06-02": 34
     }
   },
   {
@@ -315,8 +313,8 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "98.16%",
     "time": 256,
-    "timeDay": 170,
-    "timeWeek": 171,
+    "timeDay": 176,
+    "timeWeek": 170,
     "timeMonth": 176,
     "timeYear": 272,
     "dailyMinutesDown": {
@@ -357,8 +355,7 @@
       "2024-06-12": 23,
       "2024-06-05": 19,
       "2024-06-04": 16,
-      "2024-06-02": 34,
-      "2024-05-25": 18
+      "2024-06-02": 34
     }
   },
   {
@@ -373,9 +370,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 179,
-    "timeWeek": 189,
-    "timeMonth": 129,
+    "timeDay": 178,
+    "timeWeek": 162,
+    "timeMonth": 132,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2025-01-29": 28
