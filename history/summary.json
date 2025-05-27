@@ -6,9 +6,9 @@
     "slug": "extranet",
     "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "85.76%",
-    "uptimeWeek": "92.04%",
-    "uptimeMonth": "98.01%",
+    "uptimeDay": "85.21%",
+    "uptimeWeek": "91.96%",
+    "uptimeMonth": "98.00%",
     "uptimeYear": "97.97%",
     "time": 1760,
     "timeDay": 4649,
@@ -16,7 +16,8 @@
     "timeMonth": 2319,
     "timeYear": 1765,
     "dailyMinutesDown": {
-      "2025-05-26": 205,
+      "2025-05-27": 0,
+      "2025-05-26": 213,
       "2025-05-23": 320,
       "2025-05-22": 257,
       "2025-05-21": 20,
@@ -60,8 +61,7 @@
       "2024-07-02": 172,
       "2024-06-05": 21,
       "2024-06-04": 16,
-      "2024-06-02": 16,
-      "2024-05-27": 68
+      "2024-06-02": 16
     }
   },
   {
@@ -71,9 +71,9 @@
     "slug": "aol",
     "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "88.71%",
-    "uptimeWeek": "90.06%",
-    "uptimeMonth": "96.55%",
+    "uptimeDay": "88.17%",
+    "uptimeWeek": "89.99%",
+    "uptimeMonth": "96.53%",
     "uptimeYear": "97.50%",
     "time": 1129,
     "timeDay": 5852,
@@ -81,7 +81,8 @@
     "timeMonth": 1881,
     "timeYear": 1140,
     "dailyMinutesDown": {
-      "2025-05-26": 162,
+      "2025-05-27": 0,
+      "2025-05-26": 169,
       "2025-05-23": 525,
       "2025-05-22": 314,
       "2025-05-14": 509,
@@ -120,8 +121,7 @@
       "2024-06-23": 15,
       "2024-06-06": 16,
       "2024-06-05": 21,
-      "2024-05-31": 445,
-      "2024-05-27": 68
+      "2024-05-31": 445
     }
   },
   {
@@ -131,9 +131,9 @@
     "slug": "asociados",
     "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "91.57%",
-    "uptimeWeek": "93.13%",
-    "uptimeMonth": "98.27%",
+    "uptimeDay": "91.02%",
+    "uptimeWeek": "93.05%",
+    "uptimeMonth": "98.25%",
     "uptimeYear": "98.06%",
     "time": 826,
     "timeDay": 3566,
@@ -141,7 +141,8 @@
     "timeMonth": 1409,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2025-05-26": 122,
+      "2025-05-27": 0,
+      "2025-05-26": 130,
       "2025-05-23": 286,
       "2025-05-22": 284,
       "2025-05-14": 67,
@@ -179,9 +180,9 @@
     "url": "https://extranet.osam.org.ar/Consulta/cartilla",
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "cartilla",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "94.40%",
+    "status": "down",
+    "uptime": "99.14%",
+    "uptimeDay": "94.38%",
     "uptimeWeek": "98.28%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "98.09%",
@@ -191,6 +192,7 @@
     "timeMonth": 456,
     "timeYear": 585,
     "dailyMinutesDown": {
+      "2025-05-27": 0,
       "2025-05-26": 80,
       "2025-05-23": 21,
       "2025-05-22": 72,
