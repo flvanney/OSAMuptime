@@ -10,10 +10,10 @@
     "uptimeWeek": "98.45%",
     "uptimeMonth": "98.82%",
     "uptimeYear": "97.58%",
-    "time": 1862,
-    "timeDay": 2265,
-    "timeWeek": 1630,
-    "timeMonth": 1793,
+    "time": 1863,
+    "timeDay": 2389,
+    "timeWeek": 1657,
+    "timeMonth": 1798,
     "timeYear": 1935,
     "dailyMinutesDown": {
       "2025-08-02": 92,
@@ -69,8 +69,7 @@
       "2024-09-05": 56,
       "2024-08-29": 67,
       "2024-08-23": 24,
-      "2024-08-06": 24,
-      "2024-08-03": 155
+      "2024-08-06": 24
     }
   },
   {
@@ -85,9 +84,9 @@
     "uptimeMonth": "98.71%",
     "uptimeYear": "97.13%",
     "time": 1201,
-    "timeDay": 1067,
-    "timeWeek": 1033,
-    "timeMonth": 1011,
+    "timeDay": 1116,
+    "timeWeek": 1047,
+    "timeMonth": 1014,
     "timeYear": 1254,
     "dailyMinutesDown": {
       "2025-08-02": 115,
@@ -139,8 +138,7 @@
       "2024-09-06": 173,
       "2024-09-05": 70,
       "2024-08-29": 67,
-      "2024-08-06": 23,
-      "2024-08-03": 154
+      "2024-08-06": 23
     }
   },
   {
@@ -155,9 +153,9 @@
     "uptimeMonth": "98.77%",
     "uptimeYear": "97.67%",
     "time": 954,
-    "timeDay": 4990,
-    "timeWeek": 1646,
-    "timeMonth": 916,
+    "timeDay": 5001,
+    "timeWeek": 1651,
+    "timeMonth": 917,
     "timeYear": 1026,
     "dailyMinutesDown": {
       "2025-08-02": 91,
@@ -203,8 +201,7 @@
       "2024-09-06": 173,
       "2024-09-05": 69,
       "2024-08-29": 66,
-      "2024-08-06": 23,
-      "2024-08-03": 154
+      "2024-08-06": 23
     }
   },
   {
@@ -219,8 +216,8 @@
     "uptimeMonth": "98.84%",
     "uptimeYear": "97.44%",
     "time": 626,
-    "timeDay": 1558,
-    "timeWeek": 684,
+    "timeDay": 1557,
+    "timeWeek": 687,
     "timeMonth": 953,
     "timeYear": 641,
     "dailyMinutesDown": {
@@ -279,8 +276,7 @@
       "2024-09-06": 172,
       "2024-09-05": 52,
       "2024-08-29": 66,
-      "2024-08-06": 22,
-      "2024-08-03": 153
+      "2024-08-06": 22
     }
   },
   {
@@ -289,15 +285,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "farmacias",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "93.70%",
     "uptimeWeek": "98.48%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "97.51%",
     "time": 395,
-    "timeDay": 4404,
+    "timeDay": 4406,
     "timeWeek": 1175,
-    "timeMonth": 494,
+    "timeMonth": 493,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2025-08-02": 91,
@@ -354,8 +350,7 @@
       "2024-09-06": 172,
       "2024-09-05": 51,
       "2024-08-29": 65,
-      "2024-08-06": 22,
-      "2024-08-03": 153
+      "2024-08-06": 22
     }
   },
   {
@@ -370,8 +365,8 @@
     "uptimeMonth": "98.85%",
     "uptimeYear": "97.56%",
     "time": 256,
-    "timeDay": 781,
-    "timeWeek": 310,
+    "timeDay": 783,
+    "timeWeek": 311,
     "timeMonth": 207,
     "timeYear": 284,
     "dailyMinutesDown": {
@@ -422,8 +417,7 @@
       "2024-09-06": 171,
       "2024-09-05": 49,
       "2024-08-29": 65,
-      "2024-08-06": 21,
-      "2024-08-03": 152
+      "2024-08-06": 21
     }
   },
   {
@@ -438,9 +432,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 114,
-    "timeDay": 78,
-    "timeWeek": 87,
-    "timeMonth": 95,
+    "timeDay": 92,
+    "timeWeek": 88,
+    "timeMonth": 96,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2025-01-29": 28
