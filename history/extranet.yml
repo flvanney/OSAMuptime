@@ -1,7 +1,7 @@
 url: https://extranet.osam.org.ar/
-status: down
-code: 502
-responseTime: 1813
-lastUpdated: 2025-08-08T16:00:04.120Z
+status: up
+code: 200
+responseTime: 1313
+lastUpdated: 2025-08-08T16:30:49.174Z
 startTime: 2022-02-07T14:24:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
