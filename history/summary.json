@@ -6,14 +6,14 @@
     "slug": "extranet",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "91.28%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.59%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "98.36%",
     "time": 1991,
-    "timeDay": 13836,
-    "timeWeek": 4020,
-    "timeMonth": 2333,
+    "timeDay": 1543,
+    "timeWeek": 4034,
+    "timeMonth": 2311,
     "timeYear": 2020,
     "dailyMinutesDown": {
       "2025-10-29": 126,
@@ -66,8 +66,7 @@
       "2024-12-10": 182,
       "2024-12-01": 22,
       "2024-11-11": 691,
-      "2024-11-06": 16,
-      "2024-10-31": 17
+      "2024-11-06": 16
     }
   },
   {
@@ -77,14 +76,14 @@
     "slug": "aol",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "90.15%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "90.18%",
     "uptimeMonth": "97.70%",
     "uptimeYear": "97.52%",
-    "time": 1252,
-    "timeDay": 1116,
-    "timeWeek": 1008,
-    "timeMonth": 1007,
+    "time": 1253,
+    "timeDay": 1251,
+    "timeWeek": 1038,
+    "timeMonth": 1014,
     "timeYear": 1291,
     "dailyMinutesDown": {
       "2025-10-29": 142,
@@ -137,8 +136,7 @@
       "2024-12-24": 15,
       "2024-12-11": 528,
       "2024-12-10": 181,
-      "2024-11-11": 691,
-      "2024-10-31": 16
+      "2024-11-11": 691
     }
   },
   {
@@ -148,14 +146,14 @@
     "slug": "asociados",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "91.45%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.07%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "98.47%",
-    "time": 966,
-    "timeDay": 1585,
-    "timeWeek": 1075,
-    "timeMonth": 802,
+    "time": 965,
+    "timeDay": 708,
+    "timeWeek": 1081,
+    "timeMonth": 800,
     "timeYear": 1046,
     "dailyMinutesDown": {
       "2025-10-29": 123,
@@ -197,8 +195,7 @@
       "2025-01-14": 123,
       "2024-12-11": 527,
       "2024-12-10": 162,
-      "2024-11-11": 689,
-      "2024-10-31": 16
+      "2024-11-11": 689
     }
   },
   {
@@ -208,14 +205,14 @@
     "slug": "cartilla",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "91.48%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.64%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "98.23%",
     "time": 618,
-    "timeDay": 2408,
-    "timeWeek": 1216,
-    "timeMonth": 665,
+    "timeDay": 415,
+    "timeWeek": 1218,
+    "timeMonth": 659,
     "timeYear": 615,
     "dailyMinutesDown": {
       "2025-10-29": 123,
@@ -269,8 +266,7 @@
       "2024-12-11": 528,
       "2024-12-10": 162,
       "2024-12-01": 22,
-      "2024-11-11": 683,
-      "2024-10-31": 16
+      "2024-11-11": 683
     }
   },
   {
@@ -280,14 +276,14 @@
     "slug": "farmacias",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "91.51%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.65%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "98.30%",
     "time": 412,
-    "timeDay": 413,
-    "timeWeek": 313,
-    "timeMonth": 276,
+    "timeDay": 241,
+    "timeWeek": 314,
+    "timeMonth": 275,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2025-10-29": 122,
@@ -340,8 +336,7 @@
       "2024-12-11": 527,
       "2024-12-10": 161,
       "2024-12-01": 22,
-      "2024-11-11": 682,
-      "2024-10-31": 15
+      "2024-11-11": 682
     }
   },
   {
@@ -351,15 +346,15 @@
     "slug": "delegaciones",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "91.55%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.66%",
     "uptimeMonth": "99.00%",
     "uptimeYear": "98.36%",
     "time": 256,
-    "timeDay": 166,
-    "timeWeek": 181,
+    "timeDay": 182,
+    "timeWeek": 182,
     "timeMonth": 178,
-    "timeYear": 286,
+    "timeYear": 287,
     "dailyMinutesDown": {
       "2025-10-29": 122,
       "2025-10-28": 26,
@@ -419,9 +414,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 120,
-    "timeDay": 84,
-    "timeWeek": 589,
-    "timeMonth": 218,
+    "timeDay": 176,
+    "timeWeek": 603,
+    "timeMonth": 217,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-08-06": 35,
