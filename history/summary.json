@@ -70,16 +70,16 @@
     "url": "https://extranet.osam.org.ar/OSAM",
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "aol",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.22%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "97.69%",
-    "time": 1356,
-    "timeDay": 3441,
-    "timeWeek": 3061,
-    "timeMonth": 2409,
+    "time": 1357,
+    "timeDay": 2457,
+    "timeWeek": 2862,
+    "timeMonth": 2379,
     "timeYear": 1375,
     "dailyMinutesDown": {
       "2025-05-28": 133,
@@ -134,7 +134,8 @@
       "2026-04-13": 65,
       "2026-04-21": 94,
       "2026-04-22": 209,
-      "2026-04-29": 118
+      "2026-04-29": 118,
+      "2026-05-27": 0
     }
   },
   {
