@@ -4,11 +4,11 @@
     "url": "https://extranet.osam.org.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "extranet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "98.71%",
     "time": 1955,
     "timeDay": 1649,
@@ -52,7 +52,8 @@
       "2026-07-03": 160,
       "2026-07-05": 178,
       "2026-07-11": 62,
-      "2026-07-23": 139
+      "2026-07-23": 139,
+      "2026-08-06": 24
     }
   },
   {
@@ -60,12 +61,12 @@
     "url": "https://extranet.osam.org.ar/OSAM",
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "aol",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "97.83%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "97.82%",
     "time": 1601,
     "timeDay": 3032,
     "timeWeek": 2896,
@@ -113,7 +114,8 @@
       "2026-06-10": 466,
       "2026-07-05": 311,
       "2026-07-11": 57,
-      "2026-07-23": 496
+      "2026-07-23": 496,
+      "2026-08-06": 20
     }
   },
   {
@@ -121,17 +123,17 @@
     "url": "https://extranet.osam.org.ar/Asociados",
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "asociados",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "98.91%",
-    "time": 1343,
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "98.92%",
+    "time": 1344,
     "timeDay": 3443,
     "timeWeek": 2952,
     "timeMonth": 2984,
-    "timeYear": 1275,
+    "timeYear": 1277,
     "dailyMinutesDown": {
       "2025-09-01": 47,
       "2025-09-23": 137,
@@ -157,7 +159,8 @@
       "2026-04-29": 117,
       "2026-07-05": 175,
       "2026-07-11": 52,
-      "2026-07-23": 287
+      "2026-07-23": 287,
+      "2026-08-06": 15
     }
   },
   {
@@ -165,13 +168,13 @@
     "url": "https://extranet.osam.org.ar/Consulta/cartilla",
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "cartilla",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "98.69%",
-    "time": 772,
+    "time": 773,
     "timeDay": 1068,
     "timeWeek": 1077,
     "timeMonth": 1778,
@@ -214,7 +217,8 @@
       "2026-07-03": 160,
       "2026-07-05": 172,
       "2026-07-11": 48,
-      "2026-07-23": 282
+      "2026-07-23": 282,
+      "2026-08-06": 10
     }
   },
   {
@@ -222,17 +226,17 @@
     "url": "https://extranet.osam.org.ar/Consulta/farmacias",
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "farmacias",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "98.72%",
-    "time": 540,
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "98.73%",
+    "time": 525,
     "timeDay": 879,
     "timeWeek": 889,
     "timeMonth": 951,
-    "timeYear": 450,
+    "timeYear": 451,
     "dailyMinutesDown": {
       "2025-08-08": 31,
       "2025-09-01": 31,
@@ -269,7 +273,8 @@
       "2026-07-03": 159,
       "2026-07-05": 168,
       "2026-07-11": 43,
-      "2026-07-23": 278
+      "2026-07-23": 278,
+      "2026-08-06": 5
     }
   },
   {
@@ -277,17 +282,17 @@
     "url": "https://extranet.osam.org.ar/Consulta/",
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "delegaciones",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.28%",
-    "uptimeYear": "98.75%",
+    "uptimeYear": "98.76%",
     "time": 334,
     "timeDay": 824,
     "timeWeek": 801,
     "timeMonth": 824,
-    "timeYear": 365,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2025-09-01": 31,
       "2025-09-04": 20,
@@ -320,7 +325,8 @@
       "2026-07-03": 159,
       "2026-07-05": 163,
       "2026-07-11": 38,
-      "2026-07-23": 276
+      "2026-07-23": 276,
+      "2026-08-06": 0
     }
   },
   {
