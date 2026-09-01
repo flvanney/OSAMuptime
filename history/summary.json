@@ -4,13 +4,13 @@
     "url": "https://extranet.osam.org.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "extranet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "98.65%",
     "uptimeYear": "98.62%",
-    "time": 1863,
+    "time": 1864,
     "timeDay": 1146,
     "timeWeek": 1266,
     "timeMonth": 1484,
@@ -51,7 +51,8 @@
       "2026-07-11": 62,
       "2026-07-23": 139,
       "2026-08-06": 306,
-      "2026-08-24": 261
+      "2026-08-24": 261,
+      "2026-09-01": 24
     }
   },
   {
@@ -59,12 +60,12 @@
     "url": "https://extranet.osam.org.ar/OSAM",
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "aol",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "97.89%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "97.90%",
     "time": 1652,
     "timeDay": 4319,
     "timeWeek": 4382,
@@ -109,7 +110,8 @@
       "2026-07-11": 57,
       "2026-07-23": 496,
       "2026-08-06": 301,
-      "2026-08-24": 259
+      "2026-08-24": 259,
+      "2026-09-01": 20
     }
   },
   {
@@ -117,13 +119,13 @@
     "url": "https://extranet.osam.org.ar/Asociados",
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "asociados",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "98.82%",
-    "time": 1445,
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.81%",
+    "time": 1435,
     "timeDay": 3335,
     "timeWeek": 4106,
     "timeMonth": 3393,
@@ -154,7 +156,8 @@
       "2026-07-11": 52,
       "2026-07-23": 287,
       "2026-08-06": 296,
-      "2026-08-24": 258
+      "2026-08-24": 258,
+      "2026-09-01": 15
     }
   },
   {
@@ -162,11 +165,11 @@
     "url": "https://extranet.osam.org.ar/Consulta/cartilla",
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "cartilla",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.75%",
+    "status": "down",
+    "uptime": "99.40%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "98.59%",
     "time": 804,
     "timeDay": 1346,
@@ -211,7 +214,8 @@
       "2026-07-11": 48,
       "2026-07-23": 282,
       "2026-08-06": 291,
-      "2026-08-24": 256
+      "2026-08-24": 256,
+      "2026-09-01": 10
     }
   },
   {
@@ -219,13 +223,13 @@
     "url": "https://extranet.osam.org.ar/Consulta/farmacias",
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "farmacias",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.77%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.75%",
     "uptimeYear": "98.63%",
-    "time": 540,
+    "time": 541,
     "timeDay": 1217,
     "timeWeek": 1054,
     "timeMonth": 967,
@@ -266,7 +270,8 @@
       "2026-07-11": 43,
       "2026-07-23": 278,
       "2026-08-06": 286,
-      "2026-08-24": 254
+      "2026-08-24": 254,
+      "2026-09-01": 5
     }
   },
   {
@@ -274,9 +279,9 @@
     "url": "https://extranet.osam.org.ar/Consulta/",
     "icon": "https://icons.duckduckgo.com/ip3/extranet.osam.org.ar.ico",
     "slug": "delegaciones",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "98.66%",
@@ -318,7 +323,8 @@
       "2026-07-11": 38,
       "2026-07-23": 276,
       "2026-08-06": 282,
-      "2026-08-24": 252
+      "2026-08-24": 252,
+      "2026-09-01": 0
     }
   },
   {
